@@ -4,4 +4,4 @@ This is a simple readme file.
 #New Heading
 Here is a new heading.
 
-About to create a new branch.
+Here is where conflicts happen.
