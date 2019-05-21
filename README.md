@@ -5,3 +5,5 @@ This is a simple readme file.
 Here is a new heading.
 
 Here is where conflicts happen.
+
+Some text for stashing.
